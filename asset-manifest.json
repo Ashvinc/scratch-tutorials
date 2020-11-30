@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/scratch-tutorials/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/scratch-tutorials/static/js/main.76744298.chunk.js",
-    "main.js.map": "/scratch-tutorials/static/js/main.76744298.chunk.js.map",
+    "main.css": "/scratch-tutorials/static/css/main.ebfab2ab.chunk.css",
+    "main.js": "/scratch-tutorials/static/js/main.800849e3.chunk.js",
+    "main.js.map": "/scratch-tutorials/static/js/main.800849e3.chunk.js.map",
     "runtime-main.js": "/scratch-tutorials/static/js/runtime-main.9b6d03b2.js",
     "runtime-main.js.map": "/scratch-tutorials/static/js/runtime-main.9b6d03b2.js.map",
     "static/js/2.8ecf5f72.chunk.js": "/scratch-tutorials/static/js/2.8ecf5f72.chunk.js",
@@ -10,14 +10,16 @@
     "static/js/3.409a234d.chunk.js": "/scratch-tutorials/static/js/3.409a234d.chunk.js",
     "static/js/3.409a234d.chunk.js.map": "/scratch-tutorials/static/js/3.409a234d.chunk.js.map",
     "index.html": "/scratch-tutorials/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/scratch-tutorials/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.ebfab2ab.chunk.css.map": "/scratch-tutorials/static/css/main.ebfab2ab.chunk.css.map",
     "static/js/2.8ecf5f72.chunk.js.LICENSE.txt": "/scratch-tutorials/static/js/2.8ecf5f72.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/scratch-tutorials/static/media/logo.6ce24c58.svg"
+    "static/media/pentagon.997274b9.png": "/scratch-tutorials/static/media/pentagon.997274b9.png",
+    "static/media/square.5c38a874.png": "/scratch-tutorials/static/media/square.5c38a874.png",
+    "static/media/triangle.5a116cdd.png": "/scratch-tutorials/static/media/triangle.5a116cdd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9b6d03b2.js",
     "static/js/2.8ecf5f72.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.76744298.chunk.js"
+    "static/css/main.ebfab2ab.chunk.css",
+    "static/js/main.800849e3.chunk.js"
   ]
 }
